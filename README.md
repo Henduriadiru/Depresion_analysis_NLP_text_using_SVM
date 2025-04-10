@@ -23,3 +23,14 @@ The dataset should contain two columns:
 - `label` — `1` for depressed sentiment, `0` for non-depressed
 
 ---
+
+---
+Example data 
+
+	tweet	label	cleaned_tweet
+0	the real reason why you be sad you be attach t...	1	[real, reason, sad, attach, people, distant, p...
+1	my biggest problem be overthinking everything	1	[biggest, problem, overthinking]
+2	the worst sadness be the sadness you have teac...	1	[worst, sadness, sadness, teach, hide]
+3	i cannot make you understand i cannot make any...	1	[make, understand, make, understand, happen, i...
+4	i do not think anyone really understand how ti...	1	[think, really, understand, tire, act, okay, s...
+---
