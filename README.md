@@ -16,3 +16,10 @@ A machine learning project that classifies text related to depression using Natu
 - 🌐 **Interactive UI** *(optional)*: Ready to integrate with Streamlit for real-time user input and visualization.
 
 ---
+## 🧪 Sample Dataset
+
+The dataset should contain two columns:
+- `tweet` — Raw tweet text in data repo. You can use sample data. Its cleaned data and i added tokens column
+- `label` — `1` for depressed sentiment, `0` for non-depressed
+
+---
